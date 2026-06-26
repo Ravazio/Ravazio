@@ -1,24 +1,21 @@
 # Victor Ravazio
 
-Desenvolvedor focado em desenvolvimento de software e aplicações web, 
-
-Estudante de Ciência da Computação na UFABC, formado como Técnico de Informática no SENAI de Informática.
+Desenvolvedor focado em desenvolvimento de software e aplicações web.
+Com experiência acadêmica nas linguagens Java, Python, C, C#, HTML/CSS e JavaScript, SQL e Haskell.
+Experiência profissional em criação de ferramentas e correção de bugs em C# e desenvolvimento utilizando Vue.js.
 
 ## Projetos
-- Fale-Comigo: Jogo 2D narrativo com plataforma, criado no Unity com C#.
+- Fale-Comigo: Jogo 2D narrativo com plataforma, criado no Unity com C#
+- Front-End de um site da Playstation e da BRQ utilizando HTML, CSS e JavaScript
 - Análise de Sentimentos em Redes Sociais utilizando prompts do Gemini
+- Aprendizado de Máquina com Redes Neurais Artificiais em Python
+- Sistema Distribuído de Backup de Dados
 - Desenvolvimento de um Compilador em Java
 - Programação Paralela utilizando MPI
-- Redes Neurais Artificiais em Python
-- Aprendizado de Máquina
-- Front-End de um site da Playstation utilizando HTML, CSS e JavaScript
-- Front-End de um site da BRQ utilizando HTML, CSS e JavaScript
 - Análise de Dados do IBGE em Python
 - Processamento de Ponto Flutuante em C
-- Sistema Distribuído de Backup de Dados
 - Computação Gráfica com OpenGL
 - Algoritmos em Grafos em C
-- 
 
 ## Contato
 - Email: victor.ravazio@outlook.com

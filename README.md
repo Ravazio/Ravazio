@@ -1,8 +1,15 @@
 # Victor Ravazio
 
 Desenvolvedor focado em desenvolvimento de software e aplicações web.
-Com experiência acadêmica nas linguagens Java, Python, C, C#, HTML/CSS e JavaScript, SQL e Haskell.
-Experiência profissional em criação de ferramentas e correção de bugs em C# e desenvolvimento utilizando Vue.js.
+
+## Tecnologias
+- Java
+- Python
+- C
+- C#
+- HTML/CSS e JavaScript
+- SQL
+- Haskell
 
 ## Projetos
 - Fale-Comigo: Jogo 2D narrativo com plataforma, criado no Unity com C#

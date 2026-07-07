@@ -1,3 +1,5 @@
+[English](README.en.md) | Português
+
 # Victor Ravazio
 
 Desenvolvedor focado em desenvolvimento de software e aplicações web.
@@ -27,6 +29,7 @@ Desenvolvedor focado em desenvolvimento de software e aplicações web.
 ## Contato
 - Email: victor.ravazio@outlook.com
 - LinkedIn: https://www.linkedin.com/in/victor-ravazio-de-lima/
+
 <!--
 **Ravazio/Ravazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
